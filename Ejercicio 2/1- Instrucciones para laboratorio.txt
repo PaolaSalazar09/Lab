@@ -1,0 +1,1 @@
+1- Ejecutar archivo prueba.bat desde la unidad USB donde se encuentra copiado. 
